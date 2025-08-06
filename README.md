@@ -83,9 +83,4 @@ This system does **not rely on traditional machine learning**. Instead, it uses 
 
 ---
 
-## 📃 License
-
-This project is developed for academic and educational purposes.  
-Licensed under the [MIT License](LICENSE).
-
 
